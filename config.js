@@ -32,16 +32,16 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "欸！介绍给你一个帅哥嘻嘻": "./imgs/wo1.png",
-        "嘻嘻嘻嘻": "./imgs/nanshen1.png",
-         "知言心里永远的男神": "./imgs/nanshen2.png",
-        "他是咱们家最壮！": "./imgs/mamababa.png",
-        "他是咱们家最勇猛": "./imgs/nanshen3.png",
-        "他还很体贴": "./imgs/nanshen4.png",
-        "他把家里的大小情人都照顾得很好": "./imgs/nanshen5.png",
-        "我们家有他是我们家的最开心": "./imgs/nanshen6.png",
-         "一波！一波！狂粉！狂粉！": "./imgs/wodebaba.png",
-        "我爱爸爸": "./imgs/nanshen7.png",
+        "欸！介绍给你一个帅哥嘻嘻": "./imgs/dad/wo1.png",
+        "嘻嘻嘻嘻": "./imgs/dad/nanshen1.png",
+         "知言心里永远的男神": "./imgs/dad/nanshen2.png",
+        "他是咱们家最壮！": "./imgs/dad/mamababa.png",
+        "他是咱们家最勇猛": "./imgs/dad/nanshen3.png",
+        "他还很体贴": "./imgs/dad/nanshen4.png",
+        "他把家里的大小情人都照顾得很好": "./imgs/dad/nanshen5.png",
+        "我们家有他是我们家的最开心": "./imgs/dad/nanshen6.png",
+         "一波！一波！狂粉！狂粉！": "./imgs/dad/wodebaba.png",
+        "我爱爸爸": "./imgs/dad/nanshen7.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
