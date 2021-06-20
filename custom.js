@@ -1,7 +1,7 @@
 // 霸都丶傲天 2019.10.10
 $(function () {
     let dom = document.createElement("span");
-    config.texts.forEach(function (item) {
+    var config.texts.forEach(function (item) {
         let p = document.createElement("p");
         p.innerHTML = item;
         if (config.imgs && config.imgs[item]) {
