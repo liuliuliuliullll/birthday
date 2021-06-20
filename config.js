@@ -33,7 +33,7 @@ var config = {
      
     imgs: {
         "欸！介绍给你一个帅哥嘻嘻": "./imgs/wo1.jpg,
-        "嘻嘻嘻嘻": "./imgs/dad/nanshen1.jpg",
+        "嘻嘻嘻嘻": "./imgs/nanshen1.jpg",
          "知言心里永远的男神": "./imgs/nanshen2.jpg",
         "他是咱们家最壮！": "./imgs/mamababa.jpg",
         "他是咱们家最勇猛": "./imgs/nanshen3.jpg",
