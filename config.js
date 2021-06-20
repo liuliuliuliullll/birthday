@@ -2,7 +2,7 @@
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
-    imgs: {
+imgs: [
         "欸！介绍给你一个帅哥嘻嘻": "./imgs/wo1.jpg",
         "嘻嘻嘻嘻": "./imgs/nanshen1.jpg",
          "知言心里永远的男神": "./imgs/nanshen2.jpg",
@@ -13,8 +13,7 @@ var config = {
         "我们家有他是我们家的最开心": "./imgs/nanshen6.jpg",
          "一波！一波！狂粉！狂粉！": "./imgs/wodebaba.jpg",
         "我爱爸爸": "./imgs/nanshen7.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
-    },
+        ],
 texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "亲爱的爸爸~",  // 同上...
