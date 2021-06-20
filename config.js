@@ -2,7 +2,20 @@
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
-    texts: [
+    imgs: {
+        "欸！介绍给你一个帅哥嘻嘻": "./imgs/wo1.jpg",
+        "嘻嘻嘻嘻": "./imgs/nanshen1.jpg",
+         "知言心里永远的男神": "./imgs/nanshen2.jpg",
+        "他是咱们家最壮！": "./imgs/mamababa.jpg",
+        "他是咱们家最勇猛": "./imgs/nanshen3.jpg",
+        "他还很体贴": "./imgs/nanshen4.jpg",
+        "他把家里的大小情人都照顾得很好": "./imgs/nanshen5.jpg",
+        "我们家有他是我们家的最开心": "./imgs/nanshen6.jpg",
+         "一波！一波！狂粉！狂粉！": "./imgs/wodebaba.jpg",
+        "我爱爸爸": "./imgs/nanshen7.jpg",
+        // "今天是你的生日": "./imgs/birthday.jpg",
+    },
+texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "亲爱的爸爸~",  // 同上...
         "今天是你的节日",
@@ -34,19 +47,7 @@ var config = {
      * 如果不要图片的话, 直接在每行开头写两个斜杠注释即可, 例如下面的 "今天是你的生日" 的图片就不会展示了:)
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
-    imgs: {
-        "欸！介绍给你一个帅哥嘻嘻": "./imgs/wo1.jpg",
-        "嘻嘻嘻嘻": "./imgs/nanshen1.jpg",
-         "知言心里永远的男神": "./imgs/nanshen2.jpg",
-        "他是咱们家最壮！": "./imgs/mamababa.jpg",
-        "他是咱们家最勇猛": "./imgs/nanshen3.jpg",
-        "他还很体贴": "./imgs/nanshen4.jpg",
-        "他把家里的大小情人都照顾得很好": "./imgs/nanshen5.jpg",
-        "我们家有他是我们家的最开心": "./imgs/nanshen6.jpg",
-         "一波！一波！狂粉！狂粉！": "./imgs/wodebaba.jpg",
-        "我爱爸爸": "./imgs/nanshen7.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
-    },
+    
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
