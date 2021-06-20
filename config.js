@@ -1,7 +1,7 @@
 // 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
 var config = {
     
-imgs: [
+imgs: {
         "欸！介绍给你一个帅哥嘻嘻": "./imgs/wo1.jpg",
         "嘻嘻嘻嘻": "./imgs/nanshen1.jpg",
          "知言心里永远的男神": "./imgs/nanshen2.jpg",
@@ -12,7 +12,7 @@ imgs: [
         "我们家有他是我们家的最开心": "./imgs/nanshen6.jpg",
          "一波！一波！狂粉！狂粉！": "./imgs/wodebaba.jpg",
         "我爱爸爸": "./imgs/nanshen7.jpg",
-        ]，
+        }，
 texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "亲爱的爸爸~",  // 同上...
